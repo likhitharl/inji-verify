@@ -12,7 +12,7 @@ modules:
     enabled: true
     image:
       repository: injistack/apitest-inji-verify
-      tag: 0.18.1
+      tag: 0.18.2
       pullPolicy: Always
 
 apitestrig:
